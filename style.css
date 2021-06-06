@@ -7,3 +7,8 @@ h1 {
     font-weight: 800;
     color: forestgreen
 }
+
+* {
+    text-align: center;
+    margin-top: 16px;
+}
