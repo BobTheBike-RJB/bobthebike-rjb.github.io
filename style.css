@@ -1,9 +1,17 @@
-<!DOCTYPE html>
+a {
+    font-weight: 800;
+
+}
+
+h1 {
+    font-weight: 800;
+    color: forestgreen;
+}
+
+/*<!DOCTYPE html>
 <html>
 
-<head>
-    <link rel="stylesheet" type="text/css" href="style.css"/>
-</head>
+<head></head>
 
 <body>
 <h1>Hello World</h1>
@@ -153,4 +161,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 </p>
 
 </body>
-</html>
+</html>*/
