@@ -19,11 +19,3 @@ h1 {
   margin-right: auto;
   width: 50%;
 }
-
-div {
-        border: 2px solid lightblue;
-        height: 100px;
-        padding: 10px 0;
-        display: flex;
-        justify-content: center;
-      }
